@@ -1,0 +1,6 @@
+{
+  "name": "LifeLink Pulse — Intelligent Blood Response Network",
+  "description": "AI-Powered blood donor matching, shortage radar, controlled relay workflows, and multi-facility hospital blood response network.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
